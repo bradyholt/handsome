@@ -7,6 +7,22 @@ img.icon-blue {
   padding-left: 100%;
 }
 
+img.icon-red {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url('img/red_ball.png') no-repeat;
+  padding-left: 100%;
+}
+
+img.icon-disabled {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url('img/gray_ball.png') no-repeat;
+  padding-left: 100%;
+}
+
 /* Header */
 #header {
   background-color: #103185;
