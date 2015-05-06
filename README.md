@@ -7,7 +7,6 @@ Some clean style improvement for Jenkins
 ## Installation in Jenkins
 
 1. Install the ["Simple Theme" Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Simple+Theme+Plugin)
-
 2. In Jenkins, click "Manage Jenkins", then "Configure System", then specify
    the following URL under "Theme > URL of theme CSS" setting (screenshot below).
 
