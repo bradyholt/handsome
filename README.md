@@ -2,6 +2,9 @@
 
 Some clean style improvement for Jenkins
 
+![Screenshot](https://raw.githubusercontent.com/bradyholt/jenkins-neptune-theme/master/doc/dashboard-screenshot.png)
+
+
 ## Installation in Jenkins
 
 If you do install your Jenkins environment it's probably best to embed it in
