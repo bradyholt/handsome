@@ -51,3 +51,8 @@ img.icon-disabled {
 #buildHistory table, #side-panel table {
   word-wrap: break-word;
 }
+
+tr.build-row {
+  border-bottom: solid 1px lightgrey;
+}
+
