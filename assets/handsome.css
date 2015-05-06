@@ -19,8 +19,8 @@ img.icon-blue {
 
 /* Console Output */
 .console-output{
-  background-color: black;
-  color: white;
+  background-color: #002b36;
+  color: #93a1a1;
   padding: 5px;
   border-radius: 5px;
 }
