@@ -7,6 +7,11 @@ img.icon-blue {
   padding-left: 100%;
 }
 
+/* Project Status */
+#projectstatus td:nth-of-type(2) {
+  display: none; /* Hide 2nd 'health report' column */
+}
+
 /* Console Output */
 #id.console-output{
   background-color: black;
