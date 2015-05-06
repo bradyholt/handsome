@@ -1,0 +1,8 @@
+/* Icons */
+img.icon-blue {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url('img/green_ball.png') no-repeat;
+  padding-left: 16px;
+}
