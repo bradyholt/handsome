@@ -13,7 +13,7 @@ img.icon-blue {
 }
 
 /* Project Status */
-#projectstatus td:nth-of-type(2) {
+#projectstatus td:nth-of-type(2), #projectstatus th:nth-of-type(2) {
   display: none; /* Hide 2nd 'health report' column */
 }
 
