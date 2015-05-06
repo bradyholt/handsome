@@ -6,3 +6,11 @@ img.icon-blue {
   background: url('img/green_ball.png') no-repeat;
   padding-left: 100%;
 }
+
+/* Console Output */
+#id.console-output{
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
