@@ -86,5 +86,7 @@ tr.build-row {
     animation-fill-mode: both;
     -webkit-animation-name: flash;
     animation-name: flash;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
