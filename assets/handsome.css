@@ -24,3 +24,8 @@ img.icon-blue {
   padding: 5px;
   border-radius: 5px;
 }
+
+/* Status/History Tables */
+#buildHistory table, #side-panel table {
+  word-wrap: break-word;
+}
