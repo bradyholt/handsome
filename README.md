@@ -2,7 +2,9 @@
 
 Some clean style improvement for Jenkins
 
-![Screenshot](https://raw.githubusercontent.com/bradyholt/jenkins-neptune-theme/master/doc/dashboard-screenshot.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/bradyholt/jenkins-neptune-theme/master/doc/dashboard-screenshot.png)
+![Console Output Screenshot](https://raw.githubusercontent.com/bradyholt/jenkins-neptune-theme/master/doc/console-output-screenshot.png)
+![Build History Screenshot](https://raw.githubusercontent.com/bradyholt/jenkins-neptune-theme/master/doc/build-history-screenshot.png)
 
 ## Installation in Jenkins
 
