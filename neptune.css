@@ -13,6 +13,14 @@
   word-wrap: break-word;
 }
 
+#buildHistory td.build-name {
+  max-width:250px;
+}
+
+#buildHistory td.build-details {
+  font-size:11px;
+}
+
 tr.build-row {
   border-bottom: solid 1px lightgrey;
 }
