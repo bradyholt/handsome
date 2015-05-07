@@ -18,4 +18,4 @@ Some clean style improvement for Jenkins
 
 ## Compatibility
 
-Compatible with Jenkins ver. 1.582 and above
+Compatible with at least Jenkins ver. 1.582 and above.  This theme has not been tested with other versions of Jenkins so it may be compatible with prior versions of Jenkins. 
