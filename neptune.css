@@ -27,7 +27,7 @@
 }
 
 #buildHistory td.build-name {
-  max-width:250px;
+  max-width:220px;
 }
 
 #buildHistory td.build-details {
