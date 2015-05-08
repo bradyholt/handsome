@@ -58,7 +58,7 @@ tr.build-row {
 
 
 /* Icons */
-img.icon-blue, img.icon-red, img.icon-disabled, img.icon-red-anime, img.icon-blue-anime, img.icon-aborted {
+img.icon-blue, img.icon-red, img.icon-disabled, img.icon-red-anime, img.icon-blue-anime, img.icon-aborted, img.icon-aborted-anime {
   display: block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
