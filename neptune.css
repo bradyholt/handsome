@@ -22,7 +22,7 @@
 }
 
 /* Status/History Table Styles */
-#buildHistory table, #side-panel table {
+table {
   word-wrap: break-word;
 }
 
